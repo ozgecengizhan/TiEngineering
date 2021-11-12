@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "C:/Users/ozge/Desktop/Github/Project/TiEngineering/TiM\xFChProject1/Assets/Scenes/SampleScene.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
